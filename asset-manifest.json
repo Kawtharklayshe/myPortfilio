@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Kawtharklayshe/myPortfilio/static/css/main.7f097592.css",
+    "main.js": "/Kawtharklayshe/myPortfilio/static/js/main.b2e46160.js",
+    "static/media/site-bg.jpg": "/Kawtharklayshe/myPortfilio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/services.png": "/Kawtharklayshe/myPortfilio/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/2.png": "/Kawtharklayshe/myPortfilio/static/media/2.46ed300bc2720f52e8d1.png",
+    "static/media/me2.png": "/Kawtharklayshe/myPortfilio/static/media/me2.68504dd215d14ea8e70f.png",
+    "static/media/about.png": "/Kawtharklayshe/myPortfilio/static/media/about.df8df1eac9c695ade3f8.png",
+    "static/media/1.png": "/Kawtharklayshe/myPortfilio/static/media/1.c4a2c8553c32cfde8563.png",
+    "static/media/3.png": "/Kawtharklayshe/myPortfilio/static/media/3.88d2bd0f35514ea6eff2.png",
+    "static/media/logo.svg": "/Kawtharklayshe/myPortfilio/static/media/logo.1ed738f9eb92c6c36939bc033726e44c.svg",
+    "index.html": "/Kawtharklayshe/myPortfilio/index.html",
+    "main.7f097592.css.map": "/Kawtharklayshe/myPortfilio/static/css/main.7f097592.css.map",
+    "main.b2e46160.js.map": "/Kawtharklayshe/myPortfilio/static/js/main.b2e46160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f097592.css",
+    "static/js/main.b2e46160.js"
+  ]
+}

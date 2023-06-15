@@ -53,7 +53,7 @@ const Banner = () => {
               whileInView={"show"}
               viewport={{ once: false, amount: 0.7 }}
               className="mb-8 max-w-lg mx-auto lg:mx-0">
-              JavaScript/TypeScript Developer Specialist in Frontend Development With<h2   className="text-accent"> 3 Yars Of Experince </h2>
+              JavaScript/TypeScript Developer Specialist in Frontend Development With<h2   className="text-accent"> 3 Years Of Experince </h2>
             </motion.p>
             <motion.div
               variants={fadeIn("up", 0.6)}

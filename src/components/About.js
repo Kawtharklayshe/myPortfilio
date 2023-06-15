@@ -2,14 +2,15 @@ import React from "react";
 import CountUp from "react-countup";
 import { useInView } from "react-intersection-observer";
 import { fadeIn } from "../variants";
-import { motion } from "framer-motion";
+import { motion } from "framer-motion"
+import Image from "../assets/me.png";;
 const About = () => {
   const [ref, inView] = useInView({
     threshold: 0.5,
   });
   return (
     <section className="section" id="about">
-      <div className="container mx-auto">
+      <div className="container mx-auto mb-10">
         <div className="flex flex-col gap-y-10 lg:flex-row lg:items-center
         lg:gap-x-20 lg:gap-y-0 h-screen  ">
           <motion.div 
@@ -18,7 +19,11 @@ const About = () => {
               whileInView={"show"}
               viewport={{ once: false, amount: 0.3  }}
           
-          className="flex-1 bg-about bg-contain bg-no-repeat h-[640px] mix-blend-lighten bg-top"></motion.div>
+          className="flex-1 w-100 bg-contain bg-no-repeat h-[640px] mix-blend-lighten bg-top h-75">
+
+<img src={Image} alt="" />
+
+          </motion.div>
 
           <motion.div  className="flex-1" 
              variants={fadeIn("left", 0.6)}
